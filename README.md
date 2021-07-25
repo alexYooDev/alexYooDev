@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexYooDev
-- 👀 I’m interested in building my career as a front-end web developer
+- 👀 I’m interested in building my career as a web front-end developer
 - 🌱 I’m currently learning Java, Javascript, Node.js, React.js, Python, etc...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.instagram.com/juanito_y24.7/
