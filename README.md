@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexYooDev
 - 👀 I’m interested in building my career as a web front-end developer
-- 🌱 I’m currently learning Java, Javascript, Node.js, React.js, Python, etc...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CS, Web programming, TypeScript, Javascript, Node.js, React, Python, etc...
+- 💞️ I’m looking to collaborate on ... TBA
 - 📫 How to reach me: https://www.instagram.com/juanito_y24.7/
 
 ![alexYooDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexYooDev&show_icons=true&theme=radical)
