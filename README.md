@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexYooDev
-- 👀 I’m interested in building my career as a web front-end developer
+- 👀 I’m looking to building my career as a web front-end developer
 - 🌱 I’m currently learning CS, Web programming, TypeScript, Javascript, Node.js, React, Python, etc...
-- 💞️ I’m looking to collaborate on ... TBA
+- 💞️ I’m looking to collaborate on Elice AI Track as a 3rd season racer 
 - 📫 How to reach me: https://www.instagram.com/juanito_y24.7/ or you can visit my blog at: https://medium.com/@hiyoo95
 
 ![alexYooDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexYooDev&show_icons=true&theme=radical)
