@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hwanik Alexander Yoo, raised in Moscow, Russia (I don't speak no Russian tho), currently a univ student based in Namyangju, S.K.
 - 👀 I’m looking to building my career as a web front-end developer
 - 🌱 I’m currently learning CS, Web programming, TypeScript, Javascript, Node.js, React, Python, etc...
-- 💞️ I’m participating Elice AI Academy Track as a 3rd season racer 
+- 💞️ I’m participating in Elice AI Academy Track as one of their season 3rd crew members
 - 📫 How to reach me: https://www.instagram.com/juanito_y24.7/ or you can visit my blog at: https://medium.com/@hiyoo95
 
 ![alexYooDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexYooDev&show_icons=true&theme=radical)
