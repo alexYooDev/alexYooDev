@@ -2,7 +2,7 @@
 - 👀 I’m looking to building my career as a web front-end developer
 - 🌱 I’m currently learning CS, Web programming, TypeScript, Javascript, Node.js, React, Python, etc...
 - 💞️ I’m participating in Elice AI Academy Track as one of their season 3rd crew members
-- 📫 How to reach me: https://www.instagram.com/juanito_y24.7/ or you can visit my blog at: https://medium.com/@hiyoo95
+- 📫 How to reach me: https://www.instagram.com/juanito_y24.7/ or you can visit my blog at: https://velog.io/@juanito_y247
 
 ![alexYooDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexYooDev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexYooDev&layout=compact)](https://github.com/alexYooDev/)
