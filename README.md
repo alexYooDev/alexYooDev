@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hwanik Alexander Yoo, raised in Moscow, Russia (I don't speak no Russian tho), currently a univ student based in Namyangju, S.K.
+### 👋 Hi, I’m Hwanik Alexander Yoo, raised in Moscow, Russia (I don't speak no Russian tho), currently a univ student based in Namyangju, S.K.
 - 👀 I’m looking to building my career as a web front-end developer
 - 🌱 I’m currently learning CS, Web programming, TypeScript, Javascript, Node.js, React, Python, etc...
 - 💞️ I’m participating in Elice AI Academy Track as one of their season 3rd crew members
