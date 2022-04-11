@@ -1,3 +1,5 @@
+### 꾸준히 성장하는 프론트엔드 개발자 유환익입니다.
+
 ### 👋 Hi, I’m Hwanik Alexander Yoo, Web Front-end Developer based in South Korea.
 - 👀 I’m looking to building my career as a web front-end developer
 - 🌱 I’m currently learning Computer Science, Web Development, TypeScript, Javascript, Node.js, React, Python, etc...
