@@ -1,4 +1,4 @@
-### 어제 위에 오늘을 쌓아가는 프론트엔드 개발자 유환익입니다.
+### 어제 위에 오늘을 쌓아가는 프론트엔드 개발자 지망생 유환익입니다.
 
 ### 👋 Hi, I’m Hwanik Alexander Yoo, Web Front-end Developer based in South Korea.
 - 👀 I’m looking to building my career as a web front-end developer
