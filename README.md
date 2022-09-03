@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m Hwanik Alexander Yoo, Web Front-end Developer based in South Korea.
 - 👀 I’m looking to building my career as a web front-end developer
-- 🌱 I’m currently learning Computer Science, Web Development, TypeScript, Javascript, Node.js, React, Python, etc...
+- 🌱 I’m currently learning Computer Science, Web Development, TypeScript, Javascript, React.js, Node.js, Nest.js , etc...
 - 💞️ I've completed Elice AI Track: Web Programming Boot Camp as of March 13th, 2022.
 - 📫 How to reach me: https://www.instagram.com/juanito_y24.7/ or you can visit my blog at: https://velog.io/@juanito_y247
 
