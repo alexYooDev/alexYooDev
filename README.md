@@ -1,7 +1,8 @@
-## 👋 Hi, I’m Hwanik Alexander Yoo, Web Developer based in South Korea.
-- 👀 I’m looking to building my career as a web developer
+## 👋 Hi, I’m Hwanik Alexander Yoo, software developer based in Australia.
+- 👀 I’m looking to building my career as a software developer/engineer
 - 🌱 I’m currently learning Computer Science, Web Development, TypeScript, Javascript, React.js, Node.js, Nest.js , etc...
 - 💞️ I've completed Elice AI Track: Web Programming Boot Camp as of March 13th, 2022.
+- 🤖 I'm studying Information Technology (Computer Science) at Queensland University of Technology as a postgrad student from July 2024.
 - 📫 How to reach me: https://www.instagram.com/juanito_y24.7/ or you can visit my blog at: https://velog.io/@juanito_y247
 
 ![alexYooDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexYooDev&show_icons=true&theme=radical)
