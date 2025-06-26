@@ -5,9 +5,6 @@
 - 🤖 I'm studying Computer Science at Queensland University of Technology as a postgrad student.
 - 📫 Reach me via https://www.linkedin.com/in/hwanik-yoo-924b711aa/
 
-![alexYooDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexYooDev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexYooDev&layout=compact)](https://github.com/alexYooDev/github-readme-stats)
-
 
 <!---
 fm247/fm247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
