@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science, Web Development, TypeScript, Javascript, React.js, Node.js, Nest.js , etc...
 - 💞️ I've completed Elice AI Track: Web Programming Boot Camp as of March 13th, 2022.
 - 🤖 I'm studying Computer Science at Queensland University of Technology as a postgrad student.
-- 📫 How to reach me: https://www.instagram.com/juanito_y24.7/ or https://www.linkedin.com/in/hwanik-yoo-924b711aa/
+- 📫 Reach me via https://www.linkedin.com/in/hwanik-yoo-924b711aa/
 
 ![alexYooDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexYooDev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexYooDev&layout=compact)](https://github.com/alexYooDev/github-readme-stats)
