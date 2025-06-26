@@ -1,5 +1,5 @@
 ## Alex Yoo, software developer based in Australia.
-- Building my career as a software developer/engineer
+- Building my career as a software developer
 - Currently learning Computer Science, Web Development, TypeScript, Javascript, React.js, Node.js, Nest.js , etc...
 - Completed Elice AI Track: Web Programming Boot Camp as of March 13th, 2022.
 - Studying Computer Science at Queensland University of Technology as a postgrad student.
