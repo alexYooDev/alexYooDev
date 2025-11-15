@@ -15,12 +15,12 @@ specializing in web development, cloud computing, and AI-powered applications.
 
 ## 💻 Technical Skills
 
-**Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
-**Backend:** Node.js, Express.js, FastAPI, Python
-**Database:** PostgreSQL, MongoDB, MySQL
-**DevOps:** Docker, GitHub Action, CI/CD pipelines
-**Cloud:** AWS/Azure (mention specific services you've used)
-**Tools:** VS Code, Postman, Jira, Figma
+- **Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, FastAPI, Python
+- **Database:** PostgreSQL, MongoDB, MySQL
+- **DevOps:** Docker, GitHub Action, CI/CD pipelines
+- **Cloud:** AWS/Azure
+- **Tools:** VS Code, Postman, Jira, Figma
 
 ## 🌟 Featured Projects
 
