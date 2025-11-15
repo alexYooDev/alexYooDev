@@ -2,7 +2,7 @@
 - Aspiring software developer, studying Master of Computer Science at Queensland University of Technology (QUT).
 - Currently learning Computer Science, Web Development, Cloud Computing, TypeScript, Javascript, Python, React.js, Express.js, FastAPI, etc...
 - Completed Elice AI Track: Web Programming Boot Camp in March 13th, 2022.
-- Reach me via https://www.linkedin.com/in/hwanik-yoo-924b711aa/
+- https://www.linkedin.com/in/hwanik-yoo-924b711aa/
 
 
 <!---
