@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Yoo
 
-### 🎓 Master of Computer Science Student @ QUT | Aspiring Full-Stack Developer
+### 🎓 Master of Computer Science Student @ QUT | Aspiring Web Developer
 
 I'm currently in my final semester at Queensland University of Technology, 
 specializing in web development, cloud computing, and AI-powered applications.
