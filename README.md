@@ -13,7 +13,7 @@ specializing in web development, cloud computing, and AI-powered applications.
 - ☁️ Exploring cloud architecture with AWS/Azure
 - 🤖 Integrating AI features in web applications in Work Integrated Learning: CyberSec Chatbot Project
 
-## 💼 Technical Skills
+## 💻 Technical Skills
 
 **Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
 **Backend:** Node.js, Express.js, FastAPI, Python
@@ -40,7 +40,7 @@ AI-powered recipe recommendation platform
 - Technologies: TypeScript, React, Machine Learning image processing
 
 ## 📫 Let's Connect
-- https://www.linkedin.com/in/hwanik-yoo-924b711aa/
+- 💼 https://www.linkedin.com/in/hwanik-yoo-924b711aa/
 - 📧 alxyoo95@gmail.com
 - 📍 Brisbane, Australia
 
