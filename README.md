@@ -16,7 +16,7 @@ specializing in web development, cloud computing, and AI-powered applications.
 ## 💻 Technical Skills
 
 - **Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, FastAPI, Python
+- **Backend:** Express.js (Node.js), FastAPI (Python), .NET Core(C#)
 - **Database:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker, GitHub Action, CI/CD pipelines
 - **Cloud:** AWS/Azure
