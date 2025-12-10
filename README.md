@@ -24,6 +24,11 @@ specializing in web development, cloud computing, and AI-powered applications.
 
 ## 🌟 Featured Projects
 
+### Tally
+AI-powered accounting application for independent business owners
+- Technologies: Typescript, Nextjs16, OpenAI, Supabase(postgreSQL)
+- Features: Service&Goods CRUD, Income&Spending CRUD, AI financial insight generation
+
 ### Video Forge
 License-free video transcoding web application
 - Technologies: JavaScript, FFmpeg, Node.js
