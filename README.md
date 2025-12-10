@@ -20,7 +20,7 @@ specializing in web development, cloud computing, and AI-powered applications.
 - **Database:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker, GitHub Action, CI/CD pipelines
 - **Cloud:** AWS/Azure
-- **Tools:** VS Code, Postman, Jira, Figma
+- **Tools:** VS Code, Antigravity, Postman, Jira, Figma
 
 ## 🌟 Featured Projects
 
