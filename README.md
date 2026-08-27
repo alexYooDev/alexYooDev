@@ -23,7 +23,7 @@ Computer Science graduate (QUT) building full-stack, cloud-native applications â
 - **Database:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker, GitHub Action, CI/CD pipelines
 - **Cloud:** AWS/Azure
-- **Tools:** VS Code, Antigravity, Postman, Jira, Figma
+- **Tools:** VS Code, Postman, Jira, Figma
 
 ## Featured Projects
 
