@@ -2,14 +2,17 @@
 
 ### 🎓 Master of Computer Science Student @ QUT | Aspiring AI Engineer
 
-I'm currently in my final semester at Queensland University of Technology, 
-specializing in web development, cloud computing, and AI-powered applications.
+Computer Science graduate (QUT) building full-stack, cloud-native applications — currently exploring where web development, cloud infrastructure, and applied AI meet.
 
+### I am:
+- 🎓 Master of Computer Science, Queensland University of Technology (Brisbane)
+- ☁️ Hands-on with AWS (ECS, SQS, RDS, CloudFront, Cognito) and Docker-based deployments
+- 🛠️ Comfortable across TypeScript/React, Python/FastAPI, and C#/.NET Core
+- 📍 Based in Brisbane, Australia — open to Graduate Software / Cloud / Integration roles
 ---
+## What I'm Working On
 
-## 🚀 What I'm Working On
-
-- 🔧 Building full-stack web applications with React, TypeScript, Python, and Node.js
+- 🔧 Building full-stack web applications with React, TypeScript, Python, and .NET Core
 - ☁️ Exploring cloud architecture with AWS/Azure
 - 🤖 Integrating AI features in web applications in Work Integrated Learning: CyberSec Chatbot Project
 
@@ -22,29 +25,22 @@ specializing in web development, cloud computing, and AI-powered applications.
 - **Cloud:** AWS/Azure
 - **Tools:** VS Code, Antigravity, Postman, Jira, Figma
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### Tally
-AI-powered accounting application for independent business owners
-- Technologies: Typescript, Nextjs16, OpenAI, Supabase(postgreSQL)
-- Features: Service&Goods CRUD, Income&Spending CRUD, AI financial insight generation
+### [TactixAI](https://github.com/T34-TigerByte/TactixAI) — Ransomware Negotiation Training Simulator
+Industry team project. Built the React/TypeScript frontend from UI/UX designs, a real-time WebSocket layer for bi-directional chat, and Zod-based schema validation with Jest test coverage.
+**Stack:** React, TypeScript, TanStack Query, WebSocket, FastAPI, PostgreSQL
+🔗 [Live demo](https://tactix-ai.vercel.app)
 
-### Video Forge
-License-free video transcoding web application
-- Technologies: JavaScript, FFmpeg, Node.js
-- Microservices architecture for horizontal scaling, video processing job optimization
+### course2career — AI-Powered Curriculum Gap-Analysis App
+Built at the QUT AI/ML Society Hackathon. Implemented embedding-based matching (ChromaDB, sentence transformers, GPT-4o-mini) that compares student coursework against real job postings and surfaces ranked skill gaps. Presented to industry judges from Microsoft and NTI.
+**Stack:** React, FastAPI, ChromaDB, NLP
 
-### Car Rental Management System
-Full-stack rental management platform with React and Express.js
-- Team collaboration project
-- Features: Booking system, user management, payment integration
+### VideoForge — Cloud-Native Video Processing Platform
+Solo-built for a university cloud computing course. A video processing pipeline integrating SQS, ECS/ECR, RDS, CloudFront, Redis, and Cognito, with CloudWatch auto-scaling and GitHub Actions CI/CD.
+**Stack:** React, Node.js, AWS (SQS, ECS, RDS, CloudFront), Docker
 
-### Chae Ae Recipe
-AI-powered recipe recommendation platform
-- Won Software Dev MVP at Elice AI Boot Camp
-- Technologies: TypeScript, React, Machine Learning image processing
-
-## 📫 Let's Connect
+## Let's Connect
 - 💼 https://www.linkedin.com/in/hwanik-yoo-924b711aa/
 - 📧 alxyoo95@gmail.com
 - 📍 Brisbane, Australia
