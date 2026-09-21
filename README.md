@@ -32,12 +32,12 @@ Industry team project. Built the React/TypeScript frontend from UI/UX designs, a
 **Stack:** React, TypeScript, TanStack Query, WebSocket, FastAPI, PostgreSQL
 🔗 [Live demo](https://tactix-ai.vercel.app)
 
-### course2career — AI-Powered Curriculum Gap-Analysis App
+### [course2career](https://github.com/alexYooDev/Course2Career) — AI-Powered Curriculum Gap-Analysis App
 Built at the QUT AI/ML Society Hackathon. Implemented embedding-based matching (ChromaDB, sentence transformers, GPT-4o-mini) that compares student coursework against real job postings and surfaces ranked skill gaps. Presented to industry judges from Microsoft and NTI.
 **Stack:** React, FastAPI, ChromaDB, NLP
 🔗 [Live demo](https://course-2-career.vercel.app)
 
-### VideoForge — Cloud-Native Video Processing Platform
+### [VideoForge](https://github.com/alexYooDev/VideoForge) — Cloud-Native Video Processing Platform
 Solo-built for a university cloud computing course. A video processing pipeline integrating SQS, ECS/ECR, RDS, CloudFront, Redis, and Cognito, with CloudWatch auto-scaling and GitHub Actions CI/CD.
 **Stack:** React, Node.js, AWS (SQS, ECS, RDS, CloudFront), Docker
 
