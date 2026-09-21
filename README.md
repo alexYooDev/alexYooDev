@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Yoo
 
-### 🎓 Master of Computer Science Student @ QUT | Aspiring AI Engineer
+### 🎓 Master of Computer Science Student @ QUT | Software Engineer
 
 Computer Science graduate (QUT) building full-stack, cloud-native applications — currently exploring where web development, cloud infrastructure, and applied AI meet.
 
