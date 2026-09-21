@@ -37,7 +37,7 @@ Built at the QUT AI/ML Society Hackathon. Implemented embedding-based matching (
 **Stack:** React, FastAPI, ChromaDB, NLP
 🔗 [Live demo](https://course-2-career.vercel.app)
 
-### [VideoForge](https://github.com/alexYooDev/VideoForge) — Cloud-Native Video Processing Platform
+### [VideoForge](https://github.com/alexYooDev/video_forge) — Cloud-Native Video Processing Platform
 Solo-built for a university cloud computing course. A video processing pipeline integrating SQS, ECS/ECR, RDS, CloudFront, Redis, and Cognito, with CloudWatch auto-scaling and GitHub Actions CI/CD.
 **Stack:** React, Node.js, AWS (SQS, ECS, RDS, CloudFront), Docker
 
